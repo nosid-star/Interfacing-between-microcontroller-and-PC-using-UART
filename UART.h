@@ -1,9 +1,4 @@
-/*
- * UART.h
- *
- * Created: 8/26/2024 11:55:06 AM
- *  Author: Ahmed Ragab
- */ 
+
 
 
 #ifndef UART_H_
