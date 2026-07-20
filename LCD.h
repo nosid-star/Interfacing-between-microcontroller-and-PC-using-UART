@@ -1,9 +1,4 @@
-/*
- * LCD.h
- *
- * Created: 7/24/2024 2:01:49 AM
- *  Author: Ahmed Ragab
- */ 
+
 
 
 #ifndef LCD_H_
