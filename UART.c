@@ -1,9 +1,4 @@
-/*
- * UART.c
- *
- * Created: 8/26/2024 11:54:48 AM
- *  Author: Ahmed Ragab
- */ 
+
 #define F_CPU 8000000UL
 #include <util/delay.h>  
 #include <avr/io.h>
