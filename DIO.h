@@ -1,14 +1,4 @@
-/*
- * DIO.h
- *
- * Created: 5/3/2024 12:48:58 AM
- *  Author: Ahmed Ragab
- */ 
-/*
-#include <avr/interrupt.h>
-#define F_CPU 8000000UL
-#include <util/delay.h>  
-*/
+
 
 #ifndef DIO_H_
 #define DIO_H_
