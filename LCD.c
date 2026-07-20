@@ -1,9 +1,4 @@
-/*
- * LCD.c
- *
- * Created: 7/24/2024 2:01:29 AM
- *  Author: Ahmed Ragab
- */ 
+
 #define F_CPU 8000000UL
 #include <util/delay.h>
 #include "LCD.h"
