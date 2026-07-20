@@ -1,9 +1,4 @@
-/*
- * macro_function.h
- *
- * Created: 5/3/2024 12:50:32 AM
- *  Author: Ahmed Ragab
- */ 
+
 
 
 #ifndef MACRO_FUNCTION_H_
