@@ -1,9 +1,4 @@
-/*
- * DIO.c
- *
- * Created: 5/3/2024 12:49:24 AM
- *  Author: Ahmed Ragab
- */ 
+
 
 #include <avr/io.h>
 #include "DIO.h"
